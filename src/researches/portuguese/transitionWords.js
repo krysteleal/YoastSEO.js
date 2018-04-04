@@ -11,12 +11,12 @@ let multipleWords = [ "a fim de", "a fim de que", "a menos que", "a princípio",
 	"da mesma forma", "de acordo com", "de conformidade com", "de fato", "de maneira idêntica", "de tal forma que", "de tal sorte que",
 	"depois que", "desde que", "dessa forma", "dessa maneira", "desse modo", "do mesmo modo", "é provável", "em conclusão",
 	"em contrapartida", "em contraste com", "em outras palavras", "em primeiro lugar", "em princípio", "em resumo", "em seguida",
-	"em segundo lugar", "em síntese", "em suma", "em terceiro lugar", "em virtude de", "finalmente agora atualmente", "isto é",
+	"em segundo lugar", "em síntese", "em suma", "em terceiro lugar", "em virtude de", "finalmente", "agora", "atualmente", "isto é",
 	"já que", "logo após", "logo depois", "logo que", "mesmo que", "não apenas", "nesse hiato", "nesse ínterim", "nesse meio tempo",
 	"nesse sentido", "no entanto", "no momento em que", "ou por outra", "ou seja", "para que", "pelo contrário", "por analogia",
 	"por causa de", "por certo", "por conseguinte", "por conseqüência", "por exemplo", "por fim", "por isso", "por mais que",
 	"por menos que", "por outro lado", "posto que", "se acaso", "se bem que", "seja como for", "sem dúvida", "só para exemplificar",
-	"só para ilustrar", "só que", "sob o mesmo ponto de vista", "talvez provavelmente", "tanto quanto", "uma vez que", "visto que" ];
+	"só para ilustrar", "só que", "sob o mesmo ponto de vista", "talvez," "provavelmente", "tanto quanto", "uma vez que", "visto que" ];
 
 /**
  * Returns lists with transition words to be used by the assessments.
